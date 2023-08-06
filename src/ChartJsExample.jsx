@@ -60,7 +60,7 @@ const options = {
     },
     plugins: {
       legend: {
-        position: 'top', // Adjust the position of the legend based on your preference
+        position: 'bottom', // Adjust the position of the legend based on your preference
       },
     },
   };
