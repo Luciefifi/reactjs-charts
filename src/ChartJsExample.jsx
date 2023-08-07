@@ -32,7 +32,7 @@ export const data = {
             label: 'react',
             data: [32, 42, 51, 60, 51, 95],
             backgroundColor:"#2196f3",
-            borderColor: "red",
+            borderColor: "#2196f3",
         },
         {
             label: 'angular',
