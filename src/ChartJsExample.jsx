@@ -45,7 +45,13 @@ export const data = {
             data: [60, 54, 54, 28, 27, 49],
             backgroundColor:"#ffca29",
             borderColor: "#ffca29", 
-        }
+        },
+        {
+            label: 'node',
+            data: [37, 42, 41, 37, 31, 44],
+            backgroundColor:"#f44236",
+            borderColor: "#f44236", 
+        },
     ]
 
     
