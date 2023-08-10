@@ -52,6 +52,12 @@ export const data = {
             backgroundColor:"#f44236",
             borderColor: "#f44236", 
         },
+        {
+            label: 'graphql',
+            data: [37, 42, 41, 37, 31, 44],
+            backgroundColor:"#f44236",
+            borderColor: "#f44236", 
+        },
     ]
 
     
