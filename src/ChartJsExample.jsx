@@ -58,6 +58,12 @@ export const data = {
             backgroundColor:"#f44236",
             borderColor: "#f44236", 
         },
+        {
+            label: 'graphqlnext',
+            data: [37, 42, 41, 37, 31, 44],
+            backgroundColor:"#f44236",
+            borderColor: "#f44236", 
+        },
     ]
 
     
